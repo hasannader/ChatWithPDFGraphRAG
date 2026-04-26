@@ -28,6 +28,9 @@ Thumbs.db
 # Logs
 *.log
 
+# gitsteps
+.gitsteps
+
 # Local run scripts
 run.bat
 run.sh
