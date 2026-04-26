@@ -28,6 +28,10 @@ Thumbs.db
 # Logs
 *.log
 
+# Local run scripts
+run.bat
+run.sh
+
 # Temporary files
 *.tmp
 *.temp
