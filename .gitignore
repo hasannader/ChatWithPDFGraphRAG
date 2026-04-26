@@ -1,0 +1,34 @@
+@'
+# Virtual Environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Environment variables
+.env
+.last_pdf_name
+.database_cleared
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Streamlit cache
+.streamlit/
+.cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+'@ | Out-File -FilePath .gitignore -Encoding UTF8
